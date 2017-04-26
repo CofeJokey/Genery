@@ -1,0 +1,6 @@
+c:\users\илья\documents\visual studio 2017\Projects\Generiki\Generiki\bin\Debug\Generiki.exe.config
+c:\users\илья\documents\visual studio 2017\Projects\Generiki\Generiki\bin\Debug\Generiki.exe
+c:\users\илья\documents\visual studio 2017\Projects\Generiki\Generiki\bin\Debug\Generiki.pdb
+c:\users\илья\documents\visual studio 2017\Projects\Generiki\Generiki\obj\Debug\Generiki.csprojResolveAssemblyReference.cache
+c:\users\илья\documents\visual studio 2017\Projects\Generiki\Generiki\obj\Debug\Generiki.exe
+c:\users\илья\documents\visual studio 2017\Projects\Generiki\Generiki\obj\Debug\Generiki.pdb
