@@ -22,33 +22,33 @@ namespace Generiki
         {
             int leftElem;
             int rightElem;
-            int maxElem;
+            int minElem;
 
             for (;;)
             {
                 leftElem = 2 * tmp + 1;
                 rightElem = 2 * tmp + 2;
-                maxElem = tmp;
+                minElem = tmp;
 
-                if (leftElem < listSize && list[leftElem].CompareTo(list[maxElem]) < 0)
+                if (leftElem < listSize && list[leftElem].CompareTo(list[minElem]) < 0)
                 {
-                    maxElem = leftElem;
+                    minElem = leftElem;
                 }
 
-                if (rightElem < listSize && list[rightElem].CompareTo(list[maxElem]) < 0)
+                if (rightElem < listSize && list[rightElem].CompareTo(list[minElem]) < 0)
                 {
-                    maxElem = rightElem;
+                    minElem = rightElem;
                 }
 
-                if (maxElem == tmp)
+                if (minElem == tmp)
                 {
                     break;
                 }
 
                 T fl = list[tmp];
-                list[tmp] = list[maxElem];
-                list[maxElem] = fl;
-                tmp = maxElem;
+                list[tmp] = list[minElem];
+                list[minElem] = fl;
+                tmp = minElem;
             }
         }
 
