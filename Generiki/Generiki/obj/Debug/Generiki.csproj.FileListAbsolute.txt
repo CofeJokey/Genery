@@ -4,3 +4,9 @@ c:\users\илья\documents\visual studio 2017\Projects\Generiki\Generiki\bin\De
 c:\users\илья\documents\visual studio 2017\Projects\Generiki\Generiki\obj\Debug\Generiki.csprojResolveAssemblyReference.cache
 c:\users\илья\documents\visual studio 2017\Projects\Generiki\Generiki\obj\Debug\Generiki.exe
 c:\users\илья\documents\visual studio 2017\Projects\Generiki\Generiki\obj\Debug\Generiki.pdb
+C:\Users\Илья\Desktop\ForGIT\Lab 3\Genery\Generiki\Generiki\bin\Debug\Generiki.exe.config
+C:\Users\Илья\Desktop\ForGIT\Lab 3\Genery\Generiki\Generiki\bin\Debug\Generiki.exe
+C:\Users\Илья\Desktop\ForGIT\Lab 3\Genery\Generiki\Generiki\bin\Debug\Generiki.pdb
+C:\Users\Илья\Desktop\ForGIT\Lab 3\Genery\Generiki\Generiki\obj\Debug\Generiki.csprojResolveAssemblyReference.cache
+C:\Users\Илья\Desktop\ForGIT\Lab 3\Genery\Generiki\Generiki\obj\Debug\Generiki.exe
+C:\Users\Илья\Desktop\ForGIT\Lab 3\Genery\Generiki\Generiki\obj\Debug\Generiki.pdb
